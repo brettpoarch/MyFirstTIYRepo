@@ -1,21 +1,21 @@
 How to Git:
 
-mkdir MyProject (name whatever you want)
-cd MyProject 
+1. mkdir MyProject (name whatever you want)
+2. cd MyProject 
 
-git init
-touch(create) a file -- readme.md
-subl . [put stuff in readme file]
+3. git init
+4. touch(create) a file -- readme.md
+5. subl . [put stuff in readme file]
 
-git add . 
-git commit -m "initial commit"
+6. git add . 
+7. git commit -m "initial commit"
 
-create repo on github and grab the ssh link
+8. create repo on github and grab the ssh link
  - looks like (but isn't) git@github.com:brettpoarch/MyProject.git
    add our remote 
  - git remote add (name) origin git@github.com:brettpoarch/MyProject.git
- git push origin master
+ 9. git push origin master
 
- git add .
- git commit -m "my message"
- git push origin master
+ 10. git add .
+ 11. git commit -m "my message"
+ 12. git push origin master
