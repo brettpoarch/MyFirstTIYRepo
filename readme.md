@@ -14,6 +14,7 @@ How to Git:
  - looks like (but isn't) git@github.com:brettpoarch/MyProject.git
    add our remote 
  - git remote add (name) origin git@github.com:brettpoarch/MyProject.git
+ 
  9. git push origin master
 
  10. git add .
